@@ -29,6 +29,14 @@ import hombre6 from "soto cervantes.jpg";
 import hombre7 from "SotoGraciano.jpg";
 import hombre8 from "IMG_20240912_164657-transformed.jpeg"
 import hombre9 from "20240912_170420.png"
+import hombre10 from "Herrera_Ortiz.jpg"
+import hombre11 from "Leon_Quintana.png"
+import hombre12 from "luna.jpeg"
+import hombre13 from "ontiveros.png"
+import hombre14 from "reyna.jpg"
+import hombre15 from "Sanchez_Daniel.jpeg"
+import hombre16 from "zaldivar.jpeg"
+import hombre17 from "GonzálezHerrera.png"
 // reactstrap components
 import {
   Card,
@@ -351,6 +359,312 @@ function Dashboard() {
                 >
                   <div className="logo-img">
                     <img src={hombre9} alt="react-logo" />
+                  </div>
+                </a>
+              </CardFooter>
+            </Card>
+          </Col>
+
+          <Col lg="3" md="6" sm="6">
+            <Card className="card-stats">
+              <CardBody>
+                <Row>
+                  <Col md="4" xs="5">
+                    <div className="icon-big text-center icon-warning">
+                      <i className="nc-icon nc-globe text-warning" />
+                    </div>
+                  </Col>
+                  <Col md="8" xs="7">
+                    <div className="numbers">
+                      <p className="card-category">ALUMNO 9</p>
+                      <CardTitle tag="p">DIEGO HERRERA</CardTitle>
+                      <p />
+                    </div>
+                  </Col>
+                </Row>
+              </CardBody>
+              <CardFooter>
+                <hr />
+                <div className="stats">
+                </div>
+                <a
+                  href="/"
+                  className="simple-text logo-mini"
+                >
+                  <div className="logo-img">
+                    <img src={hombre9} alt="react-logo" />
+                  </div>
+                </a>
+              </CardFooter>
+            </Card>
+          </Col>
+
+          <Col lg="3" md="6" sm="6">
+            <Card className="card-stats">
+              <CardBody>
+                <Row>
+                  <Col md="4" xs="5">
+                    <div className="icon-big text-center icon-warning">
+                      <i className="nc-icon nc-globe text-warning" />
+                    </div>
+                  </Col>
+                  <Col md="8" xs="7">
+                    <div className="numbers">
+                      <p className="card-category">ALUMNO 10</p>
+                      <CardTitle tag="p">PAOLA HERRERA</CardTitle>
+                      <p />
+                    </div>
+                  </Col>
+                </Row>
+              </CardBody>
+              <CardFooter>
+                <hr />
+                <div className="stats">
+                </div>
+                <a
+                  href="/"
+                  className="simple-text logo-mini"
+                >
+                  <div className="logo-img">
+                    <img src={hombre10} alt="react-logo" />
+                  </div>
+                </a>
+              </CardFooter>
+            </Card>
+          </Col>
+
+          <Col lg="3" md="6" sm="6">
+            <Card className="card-stats">
+              <CardBody>
+                <Row>
+                  <Col md="4" xs="5">
+                    <div className="icon-big text-center icon-warning">
+                      <i className="nc-icon nc-globe text-warning" />
+                    </div>
+                  </Col>
+                  <Col md="8" xs="7">
+                    <div className="numbers">
+                      <p className="card-category">ALUMNO 11</p>
+                      <CardTitle tag="p">IRENE QUINTANA</CardTitle>
+                      <p />
+                    </div>
+                  </Col>
+                </Row>
+              </CardBody>
+              <CardFooter>
+                <hr />
+                <div className="stats">
+                </div>
+                <a
+                  href="/"
+                  className="simple-text logo-mini"
+                >
+                  <div className="logo-img">
+                    <img src={hombre11} alt="react-logo" />
+                  </div>
+                </a>
+              </CardFooter>
+            </Card>
+          </Col>
+
+          <Col lg="3" md="6" sm="6">
+            <Card className="card-stats">
+              <CardBody>
+                <Row>
+                  <Col md="4" xs="5">
+                    <div className="icon-big text-center icon-warning">
+                      <i className="nc-icon nc-globe text-warning" />
+                    </div>
+                  </Col>
+                  <Col md="8" xs="7">
+                    <div className="numbers">
+                      <p className="card-category">ALUMNO 12</p>
+                      <CardTitle tag="p">LUIS LUNA</CardTitle>
+                      <p />
+                    </div>
+                  </Col>
+                </Row>
+              </CardBody>
+              <CardFooter>
+                <hr />
+                <div className="stats">
+                </div>
+                <a
+                  href="/"
+                  className="simple-text logo-mini"
+                >
+                  <div className="logo-img">
+                    <img src={hombre12} alt="react-logo" />
+                  </div>
+                </a>
+              </CardFooter>
+            </Card>
+          </Col>
+
+          <Col lg="3" md="6" sm="6">
+            <Card className="card-stats">
+              <CardBody>
+                <Row>
+                  <Col md="4" xs="5">
+                    <div className="icon-big text-center icon-warning">
+                      <i className="nc-icon nc-globe text-warning" />
+                    </div>
+                  </Col>
+                  <Col md="8" xs="7">
+                    <div className="numbers">
+                      <p className="card-category">ALUMNO 13</p>
+                      <CardTitle tag="p">LUIS ONTIVEROS</CardTitle>
+                      <p />
+                    </div>
+                  </Col>
+                </Row>
+              </CardBody>
+              <CardFooter>
+                <hr />
+                <div className="stats">
+                </div>
+                <a
+                  href="/"
+                  className="simple-text logo-mini"
+                >
+                  <div className="logo-img">
+                    <img src={hombre13} alt="react-logo" />
+                  </div>
+                </a>
+              </CardFooter>
+            </Card>
+          </Col>
+
+          <Col lg="3" md="6" sm="6">
+            <Card className="card-stats">
+              <CardBody>
+                <Row>
+                  <Col md="4" xs="5">
+                    <div className="icon-big text-center icon-warning">
+                      <i className="nc-icon nc-globe text-warning" />
+                    </div>
+                  </Col>
+                  <Col md="8" xs="7">
+                    <div className="numbers">
+                      <p className="card-category">ALUMNO 14</p>
+                      <CardTitle tag="p">SAMUEL REYNA</CardTitle>
+                      <p />
+                    </div>
+                  </Col>
+                </Row>
+              </CardBody>
+              <CardFooter>
+                <hr />
+                <div className="stats">
+                </div>
+                <a
+                  href="/"
+                  className="simple-text logo-mini"
+                >
+                  <div className="logo-img">
+                    <img src={hombre14} alt="react-logo" />
+                  </div>
+                </a>
+              </CardFooter>
+            </Card>
+          </Col>
+
+          <Col lg="3" md="6" sm="6">
+            <Card className="card-stats">
+              <CardBody>
+                <Row>
+                  <Col md="4" xs="5">
+                    <div className="icon-big text-center icon-warning">
+                      <i className="nc-icon nc-globe text-warning" />
+                    </div>
+                  </Col>
+                  <Col md="8" xs="7">
+                    <div className="numbers">
+                      <p className="card-category">ALUMNO 15</p>
+                      <CardTitle tag="p">DANIEL SANCHEZ</CardTitle>
+                      <p />
+                    </div>
+                  </Col>
+                </Row>
+              </CardBody>
+              <CardFooter>
+                <hr />
+                <div className="stats">
+                </div>
+                <a
+                  href="/"
+                  className="simple-text logo-mini"
+                >
+                  <div className="logo-img">
+                    <img src={hombre15} alt="react-logo" />
+                  </div>
+                </a>
+              </CardFooter>
+            </Card>
+          </Col>
+
+          <Col lg="3" md="6" sm="6">
+            <Card className="card-stats">
+              <CardBody>
+                <Row>
+                  <Col md="4" xs="5">
+                    <div className="icon-big text-center icon-warning">
+                      <i className="nc-icon nc-globe text-warning" />
+                    </div>
+                  </Col>
+                  <Col md="8" xs="7">
+                    <div className="numbers">
+                      <p className="card-category">ALUMNO 16</p>
+                      <CardTitle tag="p">MAURO ZALDIVAR</CardTitle>
+                      <p />
+                    </div>
+                  </Col>
+                </Row>
+              </CardBody>
+              <CardFooter>
+                <hr />
+                <div className="stats">
+                </div>
+                <a
+                  href="/"
+                  className="simple-text logo-mini"
+                >
+                  <div className="logo-img">
+                    <img src={hombre16} alt="react-logo" />
+                  </div>
+                </a>
+              </CardFooter>
+            </Card>
+          </Col>
+
+          <Col lg="3" md="6" sm="6">
+            <Card className="card-stats">
+              <CardBody>
+                <Row>
+                  <Col md="4" xs="5">
+                    <div className="icon-big text-center icon-warning">
+                      <i className="nc-icon nc-globe text-warning" />
+                    </div>
+                  </Col>
+                  <Col md="8" xs="7">
+                    <div className="numbers">
+                      <p className="card-category">ALUMNO 17</p>
+                      <CardTitle tag="p">DIEGO GONZALES</CardTitle>
+                      <p />
+                    </div>
+                  </Col>
+                </Row>
+              </CardBody>
+              <CardFooter>
+                <hr />
+                <div className="stats">
+                </div>
+                <a
+                  href="/"
+                  className="simple-text logo-mini"
+                >
+                  <div className="logo-img">
+                    <img src={hombre17} alt="react-logo" />
                   </div>
                 </a>
               </CardFooter>

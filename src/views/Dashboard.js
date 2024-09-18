@@ -674,7 +674,7 @@ function Dashboard() {
                   <Col md="8" xs="7">
                     <div className="numbers">
                       <p className="card-category">ALUMNO 10</p>
-                      <CardTitle tag="p">BERNARDO RIOS</CardTitle>
+                      <CardTitle tag="p">BERNARDO castañeda</CardTitle>
                       <p />
                     </div>
                   </Col>

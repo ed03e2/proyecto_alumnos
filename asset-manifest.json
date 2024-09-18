@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3ea23eaa.css",
-    "main.js": "/static/js/main.0db10a47.js",
+    "main.js": "/static/js/main.8098f6d3.js",
     "static/media/reyna.jpg": "/static/media/reyna.b7b018c84dbdb64d4440.jpg",
     "static/media/SotoGraciano.jpg": "/static/media/SotoGraciano.8b360cfef5425f38053c.jpg",
     "static/media/Leon_Quintana.png": "/static/media/Leon_Quintana.e968ad62106202a88d43.png",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.3ea23eaa.css",
-    "static/js/main.0db10a47.js"
+    "static/js/main.8098f6d3.js"
   ]
 }
